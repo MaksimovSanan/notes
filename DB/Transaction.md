@@ -76,4 +76,4 @@ public class UserService {
 
 # Сурсы:
 1. struchkov.dev/blog/ru/transaction-jdbc-and-spring-boot/
-2. 
+2. struchkov.dev/blog/ru/transactional-isolation-levels/
